@@ -13,6 +13,7 @@ namespace FirstGame
     public partial class Form1 : Form
     {
         //this is a comment
+        //second comment
         public Form1()
         {
             InitializeComponent();
